@@ -1,4 +1,4 @@
-# 🌌 Neon Air Draw — AI Spatial Interface
+#   Hand Draw — AI Spatial Interface
 
 A high-performance, real-time AI air drawing web application that utilizes advanced hand tracking for a "Minority Report" style spatial interface. 
 
